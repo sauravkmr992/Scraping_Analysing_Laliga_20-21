@@ -1,0 +1,1641 @@
+{
+    "confirmed": true,
+    "home": {
+        "players": [
+            {
+                "player": {
+                    "name": "Iv\u00e1n Cu\u00e9llar",
+                    "slug": "ivan-cuellar",
+                    "shortName": "I. Cu\u00e9llar",
+                    "position": "G",
+                    "userCount": 108,
+                    "id": 19013,
+                    "country": {
+                        "alpha2": "ES",
+                        "name": "Spain"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 454464000
+                },
+                "shirtNumber": 1,
+                "position": "G",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 23,
+                    "accuratePass": 8,
+                    "totalLongBalls": 21,
+                    "accurateLongBalls": 6,
+                    "savedShotsFromInsideTheBox": 1,
+                    "saves": 2,
+                    "minutesPlayed": 90,
+                    "touches": 34,
+                    "rating": 6.4,
+                    "possessionLostCtrl": 15
+                }
+            },
+            {
+                "player": {
+                    "name": "Roberto Rosales",
+                    "slug": "roberto-rosales",
+                    "shortName": "R. Rosales",
+                    "position": "D",
+                    "userCount": 494,
+                    "id": 41334,
+                    "country": {
+                        "alpha2": "VE",
+                        "name": "Venezuela"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 595987200
+                },
+                "shirtNumber": 16,
+                "position": "D",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 24,
+                    "accuratePass": 19,
+                    "totalLongBalls": 2,
+                    "accurateLongBalls": 1,
+                    "totalCross": 2,
+                    "aerialWon": 1,
+                    "duelLost": 6,
+                    "duelWon": 4,
+                    "challengeLost": 5,
+                    "totalContest": 1,
+                    "interceptionWon": 1,
+                    "totalTackle": 3,
+                    "minutesPlayed": 90,
+                    "touches": 37,
+                    "rating": 6.2,
+                    "possessionLostCtrl": 10,
+                    "keyPass": 3
+                }
+            },
+            {
+                "player": {
+                    "name": "Unai Bustinza",
+                    "slug": "unai-bustinza",
+                    "shortName": "U. Bustinza",
+                    "position": "D",
+                    "userCount": 107,
+                    "id": 588572,
+                    "country": {
+                        "alpha2": "ES",
+                        "name": "Spain"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 696988800
+                },
+                "shirtNumber": 3,
+                "position": "D",
+                "substitute": false,
+                "captain": true,
+                "statistics": {
+                    "totalPass": 26,
+                    "accuratePass": 19,
+                    "totalLongBalls": 9,
+                    "accurateLongBalls": 4,
+                    "totalCross": 1,
+                    "aerialLost": 1,
+                    "duelLost": 3,
+                    "duelWon": 7,
+                    "challengeLost": 1,
+                    "totalClearance": 5,
+                    "interceptionWon": 1,
+                    "totalTackle": 5,
+                    "wasFouled": 2,
+                    "fouls": 1,
+                    "minutesPlayed": 90,
+                    "touches": 44,
+                    "rating": 6.8,
+                    "possessionLostCtrl": 9
+                }
+            },
+            {
+                "player": {
+                    "name": "Rodrigo Tar\u00edn",
+                    "slug": "rodrigo-tarin",
+                    "shortName": "R. Tar\u00edn",
+                    "position": "D",
+                    "userCount": 97,
+                    "id": 188355,
+                    "country": {
+                        "alpha2": "ES",
+                        "name": "Spain"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 836524800
+                },
+                "shirtNumber": 15,
+                "position": "D",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 8,
+                    "accuratePass": 7,
+                    "totalLongBalls": 1,
+                    "totalClearance": 2,
+                    "minutesPlayed": 55,
+                    "touches": 12,
+                    "rating": 6.2,
+                    "possessionLostCtrl": 1
+                }
+            },
+            {
+                "player": {
+                    "name": "Dimitrios Siovas",
+                    "slug": "dimitrios-siovas",
+                    "shortName": "D. Siovas",
+                    "position": "D",
+                    "userCount": 439,
+                    "id": 41165,
+                    "country": {
+                        "alpha2": "GR",
+                        "name": "Greece"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 590371200
+                },
+                "shirtNumber": 22,
+                "position": "D",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 34,
+                    "accuratePass": 26,
+                    "totalLongBalls": 7,
+                    "accurateLongBalls": 2,
+                    "aerialLost": 2,
+                    "aerialWon": 3,
+                    "duelLost": 3,
+                    "duelWon": 6,
+                    "challengeLost": 1,
+                    "totalContest": 2,
+                    "wonContest": 2,
+                    "totalClearance": 2,
+                    "interceptionWon": 1,
+                    "totalTackle": 1,
+                    "minutesPlayed": 90,
+                    "touches": 46,
+                    "rating": 6.5,
+                    "possessionLostCtrl": 10
+                }
+            },
+            {
+                "player": {
+                    "name": "Jonathan Silva",
+                    "slug": "jonathan-silva",
+                    "shortName": "J. Silva",
+                    "position": "D",
+                    "userCount": 272,
+                    "id": 155711,
+                    "country": {
+                        "alpha2": "AR",
+                        "name": "Argentina"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 772848000
+                },
+                "shirtNumber": 5,
+                "position": "D",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 39,
+                    "accuratePass": 33,
+                    "totalLongBalls": 2,
+                    "goalAssist": 2,
+                    "totalCross": 5,
+                    "accurateCross": 3,
+                    "aerialLost": 1,
+                    "duelLost": 7,
+                    "duelWon": 2,
+                    "challengeLost": 2,
+                    "dispossessed": 1,
+                    "totalContest": 2,
+                    "bigChanceCreated": 2,
+                    "interceptionWon": 2,
+                    "totalTackle": 1,
+                    "wasFouled": 1,
+                    "fouls": 1,
+                    "minutesPlayed": 90,
+                    "touches": 59,
+                    "rating": 7.7,
+                    "possessionLostCtrl": 11,
+                    "keyPass": 6
+                }
+            },
+            {
+                "player": {
+                    "name": "Aitor Ruibal",
+                    "slug": "aitor-ruibal",
+                    "shortName": "A. Ruibal",
+                    "position": "F",
+                    "userCount": 131,
+                    "id": 893062,
+                    "country": {
+                        "alpha2": "ES",
+                        "name": "Spain"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 827452800
+                },
+                "shirtNumber": 19,
+                "position": "M",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 11,
+                    "accuratePass": 9,
+                    "totalLongBalls": 2,
+                    "accurateLongBalls": 1,
+                    "duelLost": 6,
+                    "duelWon": 6,
+                    "challengeLost": 1,
+                    "dispossessed": 1,
+                    "totalContest": 3,
+                    "wonContest": 1,
+                    "shotOffTarget": 1,
+                    "totalTackle": 2,
+                    "wasFouled": 3,
+                    "fouls": 2,
+                    "minutesPlayed": 45,
+                    "touches": 22,
+                    "rating": 6.4,
+                    "possessionLostCtrl": 5
+                }
+            },
+            {
+                "player": {
+                    "name": "Ibrahim Amadou",
+                    "slug": "ibrahim-amadou",
+                    "shortName": "I. Amadou",
+                    "position": "M",
+                    "userCount": 198,
+                    "id": 257421,
+                    "country": {
+                        "alpha2": "FR",
+                        "name": "France"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 734054400
+                },
+                "shirtNumber": 23,
+                "position": "M",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 23,
+                    "accuratePass": 18,
+                    "totalLongBalls": 1,
+                    "duelLost": 4,
+                    "duelWon": 1,
+                    "challengeLost": 2,
+                    "totalContest": 1,
+                    "wonContest": 1,
+                    "blockedScoringAttempt": 1,
+                    "interceptionWon": 1,
+                    "fouls": 2,
+                    "minutesPlayed": 77,
+                    "touches": 29,
+                    "rating": 6.3,
+                    "possessionLostCtrl": 5
+                }
+            },
+            {
+                "player": {
+                    "name": "Recio",
+                    "slug": "recio",
+                    "shortName": "Recio",
+                    "position": "M",
+                    "userCount": 75,
+                    "id": 140010,
+                    "country": {
+                        "alpha2": "ES",
+                        "name": "Spain"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 663552000
+                },
+                "shirtNumber": 8,
+                "position": "M",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 34,
+                    "accuratePass": 29,
+                    "totalLongBalls": 3,
+                    "accurateLongBalls": 2,
+                    "aerialLost": 1,
+                    "duelLost": 5,
+                    "duelWon": 3,
+                    "challengeLost": 1,
+                    "dispossessed": 1,
+                    "totalContest": 1,
+                    "wonContest": 1,
+                    "onTargetScoringAttempt": 1,
+                    "blockedScoringAttempt": 1,
+                    "totalTackle": 2,
+                    "fouls": 2,
+                    "minutesPlayed": 55,
+                    "touches": 41,
+                    "rating": 6.5,
+                    "possessionLostCtrl": 6
+                }
+            },
+            {
+                "player": {
+                    "name": "Bryan Gil",
+                    "slug": "bryan-gil",
+                    "shortName": "B. Gil",
+                    "position": "M",
+                    "userCount": 1705,
+                    "id": 910026,
+                    "country": {
+                        "alpha2": "ES",
+                        "name": "Spain"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 981849600
+                },
+                "shirtNumber": 26,
+                "position": "M",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 29,
+                    "accuratePass": 18,
+                    "totalLongBalls": 3,
+                    "totalCross": 6,
+                    "duelLost": 5,
+                    "duelWon": 4,
+                    "challengeLost": 1,
+                    "dispossessed": 2,
+                    "totalContest": 2,
+                    "onTargetScoringAttempt": 2,
+                    "blockedScoringAttempt": 1,
+                    "goals": 1,
+                    "interceptionWon": 1,
+                    "totalTackle": 1,
+                    "wasFouled": 3,
+                    "minutesPlayed": 90,
+                    "touches": 62,
+                    "rating": 7.1,
+                    "possessionLostCtrl": 26
+                }
+            },
+            {
+                "player": {
+                    "name": "Manu Garrido",
+                    "firstName": "Manuel Garrido",
+                    "lastName": "",
+                    "slug": "manu-garrido",
+                    "shortName": "M. Garrido",
+                    "position": "F",
+                    "userCount": 9,
+                    "id": 1034124,
+                    "country": {
+                        "alpha2": "ES",
+                        "name": "Spain"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 960595200
+                },
+                "shirtNumber": 39,
+                "position": "F",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 11,
+                    "accuratePass": 8,
+                    "aerialLost": 2,
+                    "aerialWon": 1,
+                    "duelLost": 4,
+                    "duelWon": 1,
+                    "challengeLost": 2,
+                    "interceptionWon": 1,
+                    "minutesPlayed": 45,
+                    "touches": 16,
+                    "rating": 6.4,
+                    "possessionLostCtrl": 5
+                }
+            },
+            {
+                "player": {
+                    "name": "Juan Soriano",
+                    "slug": "juan-soriano",
+                    "shortName": "J. Soriano",
+                    "position": "G",
+                    "userCount": 62,
+                    "id": 547246,
+                    "country": {
+                        "alpha2": "ES",
+                        "name": "Spain"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 872294400
+                },
+                "shirtNumber": 13,
+                "position": "G",
+                "substitute": true,
+                "statistics": {}
+            },
+            {
+                "player": {
+                    "name": "Chidozie Awaziem",
+                    "slug": "chidozie-awaziem",
+                    "shortName": "C. Awaziem",
+                    "position": "D",
+                    "userCount": 462,
+                    "id": 804764,
+                    "country": {
+                        "alpha2": "NG",
+                        "name": "Nigeria"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 852076800
+                },
+                "shirtNumber": 12,
+                "position": "D",
+                "substitute": true,
+                "statistics": {}
+            },
+            {
+                "player": {
+                    "name": "Kenneth Omeruo",
+                    "slug": "kenneth-omeruo",
+                    "shortName": "K. Omeruo",
+                    "position": "D",
+                    "userCount": 447,
+                    "id": 158293,
+                    "country": {
+                        "alpha2": "NG",
+                        "name": "Nigeria"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 750816000
+                },
+                "shirtNumber": 4,
+                "position": "D",
+                "substitute": true,
+                "statistics": {}
+            },
+            {
+                "player": {
+                    "name": "Marc Navarro",
+                    "slug": "marc-navarro",
+                    "shortName": "M. Navarro",
+                    "position": "D",
+                    "userCount": 41,
+                    "id": 826651,
+                    "country": {
+                        "alpha2": "ES",
+                        "name": "Spain"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 804643200
+                },
+                "shirtNumber": 2,
+                "position": "D",
+                "substitute": true,
+                "statistics": {}
+            },
+            {
+                "player": {
+                    "name": "Aymane Mourid",
+                    "slug": "aymane-mourid",
+                    "shortName": "A. Mourid",
+                    "position": "D",
+                    "userCount": 86,
+                    "id": 1011367,
+                    "country": {
+                        "alpha2": "MA",
+                        "name": "Morocco"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 957657600
+                },
+                "shirtNumber": 29,
+                "position": "D",
+                "substitute": true,
+                "statistics": {}
+            },
+            {
+                "player": {
+                    "name": "Roque Mesa",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "roque-mesa",
+                    "shortName": "Roque",
+                    "position": "M",
+                    "userCount": 314,
+                    "id": 182243,
+                    "country": {
+                        "alpha2": "ES",
+                        "name": "Spain"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 613180800
+                },
+                "shirtNumber": 6,
+                "position": "M",
+                "substitute": true,
+                "statistics": {
+                    "totalPass": 23,
+                    "accuratePass": 22,
+                    "totalLongBalls": 1,
+                    "totalCross": 1,
+                    "duelLost": 3,
+                    "duelWon": 5,
+                    "challengeLost": 2,
+                    "dispossessed": 1,
+                    "totalContest": 2,
+                    "wonContest": 2,
+                    "totalTackle": 2,
+                    "wasFouled": 1,
+                    "minutesPlayed": 35,
+                    "touches": 30,
+                    "rating": 6.9,
+                    "possessionLostCtrl": 3,
+                    "keyPass": 1
+                }
+            },
+            {
+                "player": {
+                    "name": "Javier Eraso",
+                    "slug": "javier-eraso",
+                    "shortName": "J. Eraso",
+                    "position": "M",
+                    "userCount": 35,
+                    "id": 349568,
+                    "country": {
+                        "alpha2": "ES",
+                        "name": "Spain"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 638064000
+                },
+                "shirtNumber": 17,
+                "position": "M",
+                "substitute": true,
+                "statistics": {}
+            },
+            {
+                "player": {
+                    "name": "\u00d3scar Rodr\u00edguez",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "oscar-rodriguez",
+                    "shortName": "\u00d3. Rodr\u00edguez",
+                    "position": "M",
+                    "userCount": 1846,
+                    "id": 794948,
+                    "country": {
+                        "alpha2": "ES",
+                        "name": "Spain"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 898992000
+                },
+                "shirtNumber": 27,
+                "position": "M",
+                "substitute": true,
+                "statistics": {
+                    "totalPass": 18,
+                    "accuratePass": 12,
+                    "totalLongBalls": 2,
+                    "accurateLongBalls": 1,
+                    "totalCross": 3,
+                    "accurateCross": 1,
+                    "duelLost": 4,
+                    "duelWon": 2,
+                    "challengeLost": 1,
+                    "totalContest": 3,
+                    "wonContest": 1,
+                    "shotOffTarget": 1,
+                    "onTargetScoringAttempt": 2,
+                    "blockedScoringAttempt": 1,
+                    "totalTackle": 1,
+                    "fouls": 1,
+                    "minutesPlayed": 45,
+                    "touches": 37,
+                    "rating": 6.8,
+                    "possessionLostCtrl": 13
+                }
+            },
+            {
+                "player": {
+                    "name": "Kevin Rodrigues",
+                    "slug": "kevin-rodrigues",
+                    "shortName": "K. Rodrigues",
+                    "position": "M",
+                    "userCount": 317,
+                    "id": 234232,
+                    "country": {
+                        "alpha2": "PT",
+                        "name": "Portugal"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 762825600
+                },
+                "shirtNumber": 24,
+                "position": "D",
+                "substitute": true,
+                "statistics": {}
+            },
+            {
+                "player": {
+                    "name": "Miguel \u00c1ngel Guerrero",
+                    "slug": "miguel-angel-guerrero",
+                    "shortName": "M. \u00c1. Guerrero",
+                    "position": "F",
+                    "userCount": 293,
+                    "id": 105176,
+                    "country": {
+                        "alpha2": "ES",
+                        "name": "Spain"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 647740800
+                },
+                "shirtNumber": 9,
+                "position": "F",
+                "substitute": true,
+                "statistics": {
+                    "totalPass": 13,
+                    "accuratePass": 10,
+                    "aerialLost": 3,
+                    "aerialWon": 1,
+                    "duelLost": 5,
+                    "duelWon": 1,
+                    "dispossessed": 2,
+                    "minutesPlayed": 45,
+                    "touches": 16,
+                    "rating": 6.5,
+                    "possessionLostCtrl": 5,
+                    "keyPass": 1
+                }
+            },
+            {
+                "player": {
+                    "name": "Javier Avil\u00e9s",
+                    "slug": "javier-aviles",
+                    "shortName": "J. Avil\u00e9s",
+                    "position": "F",
+                    "userCount": 26,
+                    "id": 960049,
+                    "country": {
+                        "alpha2": "ES",
+                        "name": "Spain"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 871776000
+                },
+                "shirtNumber": 33,
+                "position": "F",
+                "substitute": true,
+                "statistics": {
+                    "totalPass": 6,
+                    "accuratePass": 4,
+                    "totalLongBalls": 1,
+                    "accurateLongBalls": 1,
+                    "totalCross": 2,
+                    "accurateCross": 1,
+                    "aerialLost": 1,
+                    "duelLost": 3,
+                    "duelWon": 2,
+                    "dispossessed": 1,
+                    "totalContest": 2,
+                    "wonContest": 1,
+                    "bigChanceMissed": 1,
+                    "shotOffTarget": 2,
+                    "wasFouled": 1,
+                    "minutesPlayed": 13,
+                    "touches": 14,
+                    "rating": 6.4,
+                    "possessionLostCtrl": 5
+                }
+            },
+            {
+                "player": {
+                    "name": "Roger Assal\u00e9",
+                    "slug": "roger-assale",
+                    "shortName": "R. Assal\u00e9",
+                    "position": "F",
+                    "userCount": 356,
+                    "id": 786305,
+                    "country": {
+                        "alpha2": "CI",
+                        "name": "Ivory Coast"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 753148800
+                },
+                "shirtNumber": 20,
+                "position": "F",
+                "substitute": true,
+                "statistics": {
+                    "totalPass": 11,
+                    "accuratePass": 10,
+                    "totalLongBalls": 1,
+                    "accurateLongBalls": 1,
+                    "aerialWon": 1,
+                    "duelLost": 3,
+                    "duelWon": 3,
+                    "dispossessed": 1,
+                    "totalContest": 2,
+                    "onTargetScoringAttempt": 2,
+                    "goals": 1,
+                    "totalTackle": 2,
+                    "totalOffside": 2,
+                    "minutesPlayed": 35,
+                    "touches": 20,
+                    "rating": 7.3,
+                    "possessionLostCtrl": 6,
+                    "keyPass": 1
+                }
+            }
+        ],
+        "formation": "5-4-1",
+        "playerColor": {
+            "primary": "00df00",
+            "number": "000000",
+            "outline": "000000"
+        },
+        "goalkeeperColor": {
+            "primary": "000000",
+            "number": "ffffff",
+            "outline": "000000"
+        },
+        "missingPlayers": [
+            {
+                "player": {
+                    "name": "Alexander Szymanowski",
+                    "slug": "alexander-szymanowski",
+                    "shortName": "A. Szymanowski",
+                    "position": "M",
+                    "userCount": 87,
+                    "id": 178015,
+                    "country": {
+                        "alpha2": "AR",
+                        "name": "Argentina"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 592704000
+                },
+                "type": "missing",
+                "reason": 1
+            },
+            {
+                "player": {
+                    "name": "Guido Carrillo",
+                    "slug": "guido-carrillo",
+                    "shortName": "G. Carrillo",
+                    "position": "F",
+                    "userCount": 360,
+                    "id": 174519,
+                    "country": {
+                        "alpha2": "AR",
+                        "name": "Argentina"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 675129600
+                },
+                "type": "missing",
+                "reason": 1
+            },
+            {
+                "player": {
+                    "name": "Unai Bustinza",
+                    "slug": "unai-bustinza",
+                    "shortName": "U. Bustinza",
+                    "position": "D",
+                    "userCount": 107,
+                    "id": 588572,
+                    "country": {
+                        "alpha2": "ES",
+                        "name": "Spain"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 696988800
+                },
+                "type": "doubtful",
+                "reason": 1
+            },
+            {
+                "player": {
+                    "name": "Kevin Rodrigues",
+                    "slug": "kevin-rodrigues",
+                    "shortName": "K. Rodrigues",
+                    "position": "M",
+                    "userCount": 317,
+                    "id": 234232,
+                    "country": {
+                        "alpha2": "PT",
+                        "name": "Portugal"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 762825600
+                },
+                "type": "doubtful",
+                "reason": 1
+            },
+            {
+                "player": {
+                    "name": "Rub\u00e9n P\u00e9rez",
+                    "slug": "ruben-perez",
+                    "shortName": "R. P\u00e9rez",
+                    "position": "M",
+                    "userCount": 89,
+                    "id": 39320,
+                    "country": {
+                        "alpha2": "ES",
+                        "name": "Spain"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 609552000
+                },
+                "type": "missing",
+                "reason": 3
+            }
+        ]
+    },
+    "away": {
+        "players": [
+            {
+                "player": {
+                    "name": "Alphonse Ar\u00e9ola",
+                    "slug": "alphonse-areola",
+                    "shortName": "A. Ar\u00e9ola",
+                    "position": "G",
+                    "userCount": 3674,
+                    "id": 96531,
+                    "country": {
+                        "alpha2": "FR",
+                        "name": "France"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 730771200
+                },
+                "shirtNumber": 1,
+                "position": "G",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 30,
+                    "accuratePass": 25,
+                    "totalLongBalls": 9,
+                    "accurateLongBalls": 4,
+                    "aerialWon": 1,
+                    "duelWon": 1,
+                    "totalClearance": 3,
+                    "savedShotsFromInsideTheBox": 3,
+                    "saves": 5,
+                    "punches": 3,
+                    "minutesPlayed": 90,
+                    "touches": 48,
+                    "rating": 7.2,
+                    "possessionLostCtrl": 5
+                }
+            },
+            {
+                "player": {
+                    "name": "Lucas V\u00e1zquez",
+                    "slug": "lucas-vazquez",
+                    "shortName": "L. V\u00e1zquez",
+                    "position": "M",
+                    "userCount": 7023,
+                    "id": 255239,
+                    "country": {
+                        "alpha2": "ES",
+                        "name": "Spain"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 678326400
+                },
+                "shirtNumber": 17,
+                "position": "D",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 66,
+                    "accuratePass": 58,
+                    "totalLongBalls": 1,
+                    "totalCross": 3,
+                    "aerialLost": 1,
+                    "duelLost": 9,
+                    "duelWon": 5,
+                    "challengeLost": 2,
+                    "dispossessed": 1,
+                    "totalContest": 1,
+                    "totalTackle": 5,
+                    "fouls": 4,
+                    "minutesPlayed": 90,
+                    "touches": 95,
+                    "rating": 6.3,
+                    "possessionLostCtrl": 17,
+                    "keyPass": 1
+                }
+            },
+            {
+                "player": {
+                    "name": "\u00c9der Milit\u00e3o",
+                    "slug": "eder-militao",
+                    "shortName": "\u00c9. Milit\u00e3o",
+                    "position": "D",
+                    "userCount": 6384,
+                    "id": 822519,
+                    "country": {
+                        "alpha2": "BR",
+                        "name": "Brazil"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 885081600
+                },
+                "shirtNumber": 3,
+                "position": "D",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 70,
+                    "accuratePass": 62,
+                    "totalLongBalls": 7,
+                    "accurateLongBalls": 1,
+                    "aerialLost": 1,
+                    "aerialWon": 2,
+                    "duelLost": 2,
+                    "duelWon": 6,
+                    "totalClearance": 7,
+                    "outfielderBlock": 1,
+                    "totalTackle": 4,
+                    "fouls": 1,
+                    "minutesPlayed": 90,
+                    "touches": 84,
+                    "rating": 7.1,
+                    "possessionLostCtrl": 9
+                }
+            },
+            {
+                "player": {
+                    "name": "Sergio Ramos",
+                    "slug": "sergio-ramos",
+                    "shortName": "S. Ramos",
+                    "position": "D",
+                    "userCount": 49907,
+                    "id": 10710,
+                    "country": {
+                        "alpha2": "ES",
+                        "name": "Spain"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 512524800
+                },
+                "shirtNumber": 4,
+                "position": "D",
+                "substitute": false,
+                "captain": true,
+                "statistics": {
+                    "totalPass": 49,
+                    "accuratePass": 47,
+                    "totalLongBalls": 6,
+                    "accurateLongBalls": 5,
+                    "duelLost": 2,
+                    "duelWon": 1,
+                    "challengeLost": 1,
+                    "onTargetScoringAttempt": 1,
+                    "goals": 1,
+                    "totalClearance": 1,
+                    "interceptionWon": 1,
+                    "totalTackle": 1,
+                    "fouls": 1,
+                    "minutesPlayed": 45,
+                    "touches": 54,
+                    "rating": 7.3,
+                    "possessionLostCtrl": 3
+                }
+            },
+            {
+                "player": {
+                    "name": "Ferland Mendy",
+                    "slug": "ferland-mendy",
+                    "shortName": "F. Mendy",
+                    "position": "D",
+                    "userCount": 7209,
+                    "id": 792073,
+                    "country": {
+                        "alpha2": "FR",
+                        "name": "France"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 802569600
+                },
+                "shirtNumber": 23,
+                "position": "D",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 54,
+                    "accuratePass": 49,
+                    "totalLongBalls": 2,
+                    "accurateLongBalls": 1,
+                    "aerialLost": 1,
+                    "aerialWon": 1,
+                    "duelLost": 4,
+                    "duelWon": 6,
+                    "dispossessed": 1,
+                    "totalContest": 3,
+                    "wonContest": 3,
+                    "totalClearance": 4,
+                    "outfielderBlock": 1,
+                    "interceptionWon": 1,
+                    "wasFouled": 2,
+                    "fouls": 2,
+                    "minutesPlayed": 90,
+                    "touches": 78,
+                    "rating": 7,
+                    "possessionLostCtrl": 9,
+                    "keyPass": 2
+                }
+            },
+            {
+                "player": {
+                    "name": "Federico Valverde",
+                    "slug": "federico-valverde",
+                    "shortName": "F. Valverde",
+                    "position": "M",
+                    "userCount": 10692,
+                    "id": 831808,
+                    "country": {
+                        "alpha2": "UY",
+                        "name": "Uruguay"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 901065600
+                },
+                "shirtNumber": 15,
+                "position": "M",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 53,
+                    "accuratePass": 48,
+                    "totalLongBalls": 1,
+                    "accurateLongBalls": 1,
+                    "aerialWon": 1,
+                    "duelLost": 1,
+                    "duelWon": 5,
+                    "dispossessed": 1,
+                    "totalContest": 3,
+                    "wonContest": 3,
+                    "onTargetScoringAttempt": 1,
+                    "totalClearance": 1,
+                    "interceptionWon": 1,
+                    "totalTackle": 1,
+                    "minutesPlayed": 90,
+                    "touches": 67,
+                    "rating": 7.1,
+                    "possessionLostCtrl": 8
+                }
+            },
+            {
+                "player": {
+                    "name": "Casemiro",
+                    "slug": "casemiro",
+                    "shortName": "Casemiro",
+                    "position": "M",
+                    "userCount": 21844,
+                    "id": 122951,
+                    "country": {
+                        "alpha2": "BR",
+                        "name": "Brazil"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 698803200
+                },
+                "shirtNumber": 14,
+                "position": "M",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 47,
+                    "accuratePass": 41,
+                    "totalLongBalls": 5,
+                    "accurateLongBalls": 5,
+                    "aerialLost": 2,
+                    "aerialWon": 1,
+                    "duelLost": 6,
+                    "duelWon": 6,
+                    "challengeLost": 1,
+                    "dispossessed": 1,
+                    "totalContest": 3,
+                    "wonContest": 2,
+                    "totalClearance": 2,
+                    "interceptionWon": 1,
+                    "totalTackle": 1,
+                    "wasFouled": 2,
+                    "fouls": 1,
+                    "minutesPlayed": 61,
+                    "touches": 61,
+                    "rating": 6.9,
+                    "possessionLostCtrl": 9
+                }
+            },
+            {
+                "player": {
+                    "name": "Isco",
+                    "slug": "isco",
+                    "shortName": "Isco",
+                    "position": "M",
+                    "userCount": 21008,
+                    "id": 103417,
+                    "country": {
+                        "alpha2": "ES",
+                        "name": "Spain"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 703814400
+                },
+                "shirtNumber": 22,
+                "position": "M",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 95,
+                    "accuratePass": 85,
+                    "totalLongBalls": 4,
+                    "accurateLongBalls": 2,
+                    "goalAssist": 2,
+                    "totalCross": 4,
+                    "accurateCross": 2,
+                    "duelLost": 4,
+                    "duelWon": 5,
+                    "dispossessed": 1,
+                    "totalContest": 6,
+                    "wonContest": 3,
+                    "bigChanceCreated": 2,
+                    "interceptionWon": 1,
+                    "totalTackle": 1,
+                    "wasFouled": 1,
+                    "minutesPlayed": 90,
+                    "touches": 115,
+                    "rating": 8.4,
+                    "possessionLostCtrl": 18,
+                    "keyPass": 3
+                }
+            },
+            {
+                "player": {
+                    "name": "Marco Asensio",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "marco-asensio",
+                    "shortName": "M. Asensio",
+                    "position": "F",
+                    "userCount": 15436,
+                    "id": 361004,
+                    "country": {
+                        "alpha2": "ES",
+                        "name": "Spain"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 822182400
+                },
+                "shirtNumber": 20,
+                "position": "F",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 26,
+                    "accuratePass": 23,
+                    "totalLongBalls": 5,
+                    "accurateLongBalls": 5,
+                    "totalCross": 1,
+                    "aerialWon": 1,
+                    "duelLost": 3,
+                    "duelWon": 6,
+                    "dispossessed": 1,
+                    "totalContest": 3,
+                    "wonContest": 1,
+                    "shotOffTarget": 1,
+                    "onTargetScoringAttempt": 1,
+                    "goals": 1,
+                    "totalClearance": 2,
+                    "totalTackle": 2,
+                    "wasFouled": 2,
+                    "minutesPlayed": 61,
+                    "touches": 41,
+                    "rating": 7.6,
+                    "possessionLostCtrl": 8
+                }
+            },
+            {
+                "player": {
+                    "name": "Karim Benzema",
+                    "slug": "karim-benzema",
+                    "shortName": "K. Benzema",
+                    "position": "F",
+                    "userCount": 46857,
+                    "id": 3306,
+                    "country": {
+                        "alpha2": "FR",
+                        "name": "France"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 566870400
+                },
+                "shirtNumber": 9,
+                "position": "F",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 21,
+                    "accuratePass": 18,
+                    "duelLost": 2,
+                    "duelWon": 1,
+                    "challengeLost": 1,
+                    "dispossessed": 1,
+                    "totalContest": 1,
+                    "wonContest": 1,
+                    "shotOffTarget": 1,
+                    "outfielderBlock": 1,
+                    "minutesPlayed": 61,
+                    "touches": 27,
+                    "rating": 6.7,
+                    "possessionLostCtrl": 6
+                }
+            },
+            {
+                "player": {
+                    "name": "Vin\u00edcius J\u00fanior",
+                    "slug": "vinicius-junior",
+                    "shortName": "V. J\u00fanior",
+                    "position": "F",
+                    "userCount": 38852,
+                    "id": 868812,
+                    "country": {
+                        "alpha2": "BR",
+                        "name": "Brazil"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 963360000
+                },
+                "shirtNumber": 25,
+                "position": "F",
+                "substitute": false,
+                "statistics": {
+                    "totalPass": 39,
+                    "accuratePass": 34,
+                    "totalCross": 1,
+                    "duelLost": 6,
+                    "duelWon": 9,
+                    "challengeLost": 2,
+                    "totalContest": 8,
+                    "wonContest": 4,
+                    "totalTackle": 4,
+                    "wasFouled": 1,
+                    "minutesPlayed": 90,
+                    "touches": 60,
+                    "rating": 6.7,
+                    "possessionLostCtrl": 13
+                }
+            },
+            {
+                "player": {
+                    "name": "Luis L\u00f3pez",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "luis-lopez",
+                    "shortName": "L. L\u00f3pez",
+                    "position": "G",
+                    "userCount": 157,
+                    "id": 1014375,
+                    "country": {
+                        "alpha2": "ES",
+                        "name": "Spain"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 989280000
+                },
+                "shirtNumber": 46,
+                "position": "G",
+                "substitute": true,
+                "statistics": {}
+            },
+            {
+                "player": {
+                    "name": "Diego Altube",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "diego-altube",
+                    "shortName": "D. Altube",
+                    "position": "G",
+                    "userCount": 800,
+                    "id": 910128,
+                    "country": {
+                        "alpha2": "ES",
+                        "name": "Spain"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 951177600
+                },
+                "shirtNumber": 26,
+                "position": "G",
+                "substitute": true,
+                "statistics": {}
+            },
+            {
+                "player": {
+                    "name": "Daniel Carvajal",
+                    "slug": "daniel-carvajal",
+                    "shortName": "D. Carvajal",
+                    "position": "D",
+                    "userCount": 9782,
+                    "id": 138572,
+                    "country": {
+                        "alpha2": "ES",
+                        "name": "Spain"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 695088000
+                },
+                "shirtNumber": 2,
+                "position": "D",
+                "substitute": true,
+                "statistics": {}
+            },
+            {
+                "player": {
+                    "name": "Nacho Fern\u00e1ndez",
+                    "slug": "nacho-fernandez",
+                    "shortName": "N. Fern\u00e1ndez",
+                    "position": "D",
+                    "userCount": 5023,
+                    "id": 69404,
+                    "country": {
+                        "alpha2": "ES",
+                        "name": "Spain"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 632620800
+                },
+                "shirtNumber": 6,
+                "position": "D",
+                "substitute": true,
+                "statistics": {
+                    "totalPass": 30,
+                    "accuratePass": 26,
+                    "totalLongBalls": 4,
+                    "accurateLongBalls": 1,
+                    "aerialLost": 1,
+                    "aerialWon": 2,
+                    "duelLost": 1,
+                    "duelWon": 4,
+                    "totalClearance": 4,
+                    "outfielderBlock": 1,
+                    "interceptionWon": 1,
+                    "totalTackle": 2,
+                    "minutesPlayed": 45,
+                    "touches": 40,
+                    "rating": 7,
+                    "possessionLostCtrl": 4
+                }
+            },
+            {
+                "player": {
+                    "name": "Rapha\u00ebl Varane",
+                    "slug": "raphael-varane",
+                    "shortName": "R. Varane",
+                    "position": "D",
+                    "userCount": 11433,
+                    "id": 138310,
+                    "country": {
+                        "alpha2": "FR",
+                        "name": "France"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 735696000
+                },
+                "shirtNumber": 5,
+                "position": "D",
+                "substitute": true,
+                "statistics": {}
+            },
+            {
+                "player": {
+                    "name": "Brahim D\u00edaz",
+                    "slug": "brahim-diaz",
+                    "shortName": "B. D\u00edaz",
+                    "position": "M",
+                    "userCount": 7451,
+                    "id": 835485,
+                    "country": {
+                        "alpha2": "ES",
+                        "name": "Spain"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 933638400
+                },
+                "shirtNumber": 21,
+                "position": "F",
+                "substitute": true,
+                "statistics": {
+                    "totalPass": 23,
+                    "accuratePass": 19,
+                    "duelLost": 3,
+                    "duelWon": 4,
+                    "dispossessed": 1,
+                    "totalContest": 3,
+                    "wonContest": 2,
+                    "shotOffTarget": 1,
+                    "onTargetScoringAttempt": 1,
+                    "totalTackle": 1,
+                    "wasFouled": 1,
+                    "fouls": 1,
+                    "minutesPlayed": 29,
+                    "touches": 35,
+                    "rating": 6.9,
+                    "possessionLostCtrl": 8
+                }
+            },
+            {
+                "player": {
+                    "name": "Luka Modri\u0107",
+                    "slug": "luka-modric",
+                    "shortName": "L. Modri\u0107",
+                    "position": "M",
+                    "userCount": 47055,
+                    "id": 15466,
+                    "country": {
+                        "alpha2": "HR",
+                        "name": "Croatia"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 495072000
+                },
+                "shirtNumber": 10,
+                "position": "M",
+                "substitute": true,
+                "statistics": {}
+            },
+            {
+                "player": {
+                    "name": "Toni Kroos",
+                    "slug": "toni-kroos",
+                    "shortName": "T. Kroos",
+                    "position": "M",
+                    "userCount": 35381,
+                    "id": 26502,
+                    "country": {
+                        "alpha2": "DE",
+                        "name": "Germany"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 631411200
+                },
+                "shirtNumber": 8,
+                "position": "M",
+                "substitute": true,
+                "statistics": {
+                    "totalPass": 36,
+                    "accuratePass": 33,
+                    "totalLongBalls": 3,
+                    "accurateLongBalls": 2,
+                    "duelLost": 2,
+                    "challengeLost": 2,
+                    "totalClearance": 3,
+                    "minutesPlayed": 29,
+                    "touches": 40,
+                    "rating": 6.4,
+                    "possessionLostCtrl": 3
+                }
+            },
+            {
+                "player": {
+                    "name": "Luka Jovi\u0107",
+                    "slug": "luka-jovic",
+                    "shortName": "L. Jovi\u0107",
+                    "position": "F",
+                    "userCount": 23050,
+                    "id": 319129,
+                    "country": {
+                        "alpha2": "RS",
+                        "name": "Serbia"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 882835200
+                },
+                "shirtNumber": 18,
+                "position": "F",
+                "substitute": true,
+                "statistics": {
+                    "totalPass": 7,
+                    "accuratePass": 6,
+                    "aerialLost": 1,
+                    "aerialWon": 2,
+                    "duelLost": 2,
+                    "duelWon": 2,
+                    "fouls": 1,
+                    "minutesPlayed": 29,
+                    "touches": 9,
+                    "rating": 6.6,
+                    "possessionLostCtrl": 2,
+                    "keyPass": 1
+                }
+            },
+            {
+                "player": {
+                    "name": "Mariano D\u00edaz",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "mariano-diaz",
+                    "shortName": "M. D\u00edaz",
+                    "position": "F",
+                    "userCount": 5841,
+                    "id": 175753,
+                    "country": {
+                        "alpha2": "DO",
+                        "name": "Dominican Republic"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 744163200
+                },
+                "shirtNumber": 24,
+                "position": "F",
+                "substitute": true,
+                "statistics": {}
+            },
+            {
+                "player": {
+                    "name": "Rodrygo",
+                    "slug": "rodrygo",
+                    "shortName": "Rodrygo",
+                    "position": "F",
+                    "userCount": 26348,
+                    "id": 910536,
+                    "country": {
+                        "alpha2": "BR",
+                        "name": "Brazil"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 978998400
+                },
+                "shirtNumber": 27,
+                "position": "M",
+                "substitute": true,
+                "statistics": {}
+            }
+        ],
+        "formation": "4-3-3",
+        "playerColor": {
+            "primary": "003a75",
+            "number": "f3ea72",
+            "outline": "336600"
+        },
+        "goalkeeperColor": {
+            "primary": "336600",
+            "number": "000000",
+            "outline": "336600"
+        },
+        "missingPlayers": [
+            {
+                "player": {
+                    "name": "Marcelo",
+                    "slug": "marcelo",
+                    "shortName": "Marcelo",
+                    "position": "D",
+                    "userCount": 37346,
+                    "id": 17787,
+                    "country": {
+                        "alpha2": "BR",
+                        "name": "Brazil"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 579398400
+                },
+                "type": "missing",
+                "reason": 1
+            },
+            {
+                "player": {
+                    "name": "Nacho Fern\u00e1ndez",
+                    "slug": "nacho-fernandez",
+                    "shortName": "N. Fern\u00e1ndez",
+                    "position": "D",
+                    "userCount": 5023,
+                    "id": 69404,
+                    "country": {
+                        "alpha2": "ES",
+                        "name": "Spain"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 632620800
+                },
+                "type": "doubtful",
+                "reason": 1
+            },
+            {
+                "player": {
+                    "name": "Mariano D\u00edaz",
+                    "firstName": "",
+                    "lastName": "",
+                    "slug": "mariano-diaz",
+                    "shortName": "M. D\u00edaz",
+                    "position": "F",
+                    "userCount": 5841,
+                    "id": 175753,
+                    "country": {
+                        "alpha2": "DO",
+                        "name": "Dominican Republic"
+                    },
+                    "marketValueCurrency": "\u20ac",
+                    "dateOfBirthTimestamp": 744163200
+                },
+                "type": "doubtful",
+                "reason": 1
+            }
+        ]
+    }
+}
